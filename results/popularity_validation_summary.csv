@@ -1,0 +1,2 @@
+model,top_k,user_count,recall_at_10,hit_rate_at_10,ndcg_at_10,catalog_coverage,unique_recommended_movies,average_popularity,long_tail_share
+popularity,10,894,0.05885025214961212,0.21923937360178972,0.05009511547353711,0.03772189349112426,51,289.69597315436243,0.0

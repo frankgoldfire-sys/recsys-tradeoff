@@ -1,0 +1,28 @@
+# 虚拟环境
+.venv/
+
+# Python缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 环境变量
+.env
+
+# MovieLens数据不得随仓库重新分发
+data/raw/
+data/processed/
+*.zip
+
+# 详细的逐用户与推荐结果可能包含数据集衍生信息
+results/*_per_user.csv
+results/*recommendations.csv
+results/representative_case_history.csv
+
+# 系统文件
+.DS_Store
+Thumbs.db

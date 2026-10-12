@@ -1,0 +1,2 @@
+model,top_k,user_count,recall_at_10,hit_rate_at_10,ndcg_at_10,catalog_coverage,unique_recommended_movies,average_popularity,long_tail_share
+itemcf_cosine,10,894,0.12102169028978883,0.3568232662192394,0.09201783391228624,0.1257396449704142,170,227.32393736017897,0.002796420581655481

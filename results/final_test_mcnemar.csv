@@ -1,0 +1,3 @@
+comparison,reference,challenger,reference_only_hit,challenger_only_hit,hit_rate_difference,exact_p_value
+popularity_to_itemcf,popularity,itemcf_10,78,177,0.11073825503355705,5.139937785688146e-10
+itemcf_to_diversity_reranking,itemcf_10,itemcf_10_diversity_alpha_0.4,29,25,-0.004474272930648782,0.6834892282353371

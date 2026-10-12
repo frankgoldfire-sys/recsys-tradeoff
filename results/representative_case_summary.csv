@@ -1,0 +1,2 @@
+selected_user_id,selection_rule,overall_median_diversity_gain,itemcf_hit_count,reranked_hit_count,itemcf_ndcg_at_10,reranked_ndcg_at_10,itemcf_diversity,reranked_diversity,diversity_gain
+206,两个模型均有正向命中、命中数量相同，且多样性提升最接近全体中位数,0.0751852393150329,1.0,1.0,1.0,1.0,0.8062962889671326,0.8814815282821655,0.07518523931503296
